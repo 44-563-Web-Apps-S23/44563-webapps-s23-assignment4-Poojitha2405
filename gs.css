@@ -1,12 +1,12 @@
-h5.SIR HARRY{
+h5.SIR-HARRY{
     font:bold;
-    color: bisque;
+    color: green;
     font-size: 15px;
     font-style:inherit;
 }
-h5.LADY SIMS{
+h5.LADY-SIMS{
     font:bold;
-    color:aqua;
+    color:red;
     font-size: 15px;
     font-style: oblique;
 }
@@ -23,16 +23,15 @@ p.direction{
 }
 p.direction:hover {
     background-color:lightgrey;
-    color: blue;
+    color: pink;
     
 }
-
 h5:hover {
     text-shadow: 20px 20px 30px gray;
     border-bottom: black solid;
     font-size: 30px;
 }
-h5.LADY SIMS:hover {
+h5.LADY-SIMS:hover {
     text-shadow: 20px 20px 30px lightgreen;
     border-bottom: black solid;
     font-size: 30px;
@@ -61,7 +60,7 @@ th{
     font: bold;
     color: black;
     text-align: center;
-    background-color: bisque;
+    background-color: yellow;
 }
 tr:nth-child(even) {
     background-color: #fff;
